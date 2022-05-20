@@ -9,7 +9,7 @@ Game was originally supposed to be played on an application window so functional
 ## Project Files
 https://github.com/ben842002/hiragana-seito-defense-project-files
 
-## Game Features to Implement
+## Game Features
 1. Items and Buffs - Increase Lives, Slow Down Time, Destroy All Enemies
 2. Shop System - Tokens are used to buy various buffs and items 
 3. 2x Speed Option
