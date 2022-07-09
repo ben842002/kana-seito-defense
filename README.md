@@ -16,6 +16,6 @@ https://github.com/ben842002/hiragana-seito-defense-project-files
 4. Input File Mode (Player can make their own file of any language and import it)
 
 ## Programming and Technical Goals to Improve Upon
-1. Utilize Various Data Structures (Hashtables, Stacks, Queues, etc)
+1. Utilize Various Data Structures (Hash tables, Stacks, Queues, etc)
 2. Modular Design
-3. Scalability and accomodation for multiple variables
+3. Scalability and accommodation for multiple variables
