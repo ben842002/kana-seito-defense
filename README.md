@@ -14,4 +14,4 @@ https://github.com/ben842002/hiragana-seito-defense-project-files
 ![hsd2](https://user-images.githubusercontent.com/78128664/187120018-15f0097d-7aea-4b5b-a80d-fe6986d7c249.png)
 
 ## Upcoming Game Features
-1. **Hiragana Word Search** in Main Menu
+1. **Hiragana Letter Search** in Main Menu
