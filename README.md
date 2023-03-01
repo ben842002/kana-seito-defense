@@ -1,5 +1,4 @@
 # Hiragana Seito Defense
-#### <i>Work in Progress</i>  
 A typing game designed to help players identify and type Japanese hiragana letters using an English keyboard.  
 
 ![hsd1](https://user-images.githubusercontent.com/78128664/187120015-50bbfef7-8f15-4cea-9186-6307804d9e5c.png)
