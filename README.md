@@ -1,7 +1,7 @@
 # Hiragana Seito Defense
 A typing game designed to help players identify and type Japanese hiragana letters using an English keyboard.  
 
-## Play in Browser (WebGL Build)
+## Play the game in a Browser
 ### https://ben842002.github.io/hiragana-seito-defense/  
 Game was originally supposed to be played on an application window so functionalities such as Settings and Quit will not work in the WebGL build. 
 For any feedback, feel free to email ben842002@uri.edu!
