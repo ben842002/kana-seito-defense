@@ -3,8 +3,8 @@ A typing game designed to help players identify and type Japanese hiragana lette
 
 ## Play the Game in a Browser
 ### https://ben842002.github.io/hiragana-seito-defense/  
-Game was originally supposed to be played on an application window so functionalities such as Settings and Quit will not work in the WebGL build. 
-For any feedback, feel free to email ben842002@uri.edu!
+**Note:** Game was originally supposed to be played on an application window so functionalities such as Settings and Quit will not work in the browser version. 
+For any feedback, feel free to email torngamedev@gmail.com!
 
 ![hsd1](https://user-images.githubusercontent.com/78128664/187120015-50bbfef7-8f15-4cea-9186-6307804d9e5c.png)
 
