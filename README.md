@@ -1,5 +1,5 @@
 # Hiragana Seito Defense
-A typing game designed to help players identify and type Japanese hiragana letters using an English keyboard.  
+A typing game designed to help players identify and type Japanese hiragana letters using a QWERTY keyboard.  
 
 ## Play the Game in a Browser
 ### https://ben842002.github.io/hiragana-seito-defense/  
