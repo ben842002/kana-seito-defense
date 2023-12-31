@@ -1,5 +1,5 @@
 # Hiragana Seito Defense
-Hiragana Seito Defense is a typing game that will help you learn and memorize the English romanization of Japanese Hiragana. 
+Hiragana Seito Defense is a typing game that will help you learn and memorize the English romanization of Japanese Hiragana! 
 
 Type the correct romanization of Hiragana characters that appear on the screen to defeat enemies, earn tokens, and progress through the game! 
 Use tokens to purchase various in-game items such as enemy slowdown and more lives to survive longer in a level.
