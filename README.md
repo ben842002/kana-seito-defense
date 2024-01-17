@@ -6,7 +6,7 @@ Use tokens to purchase various in-game items such as enemy slowdown and more liv
 challenge yourself with kana of your choice!
 
 ## Play the Game in Your Browser
-### https://ben842002.github.io/hiragana-seito-defense/  
+### https://github.com/ben842002/kana-seito-defense    
 **Note:** Game was originally supposed to be played on an application window so functionalities such as Settings and Quit will not work in the browser version. 
 For any feedback, feel free to email torngamedev@gmail.com!
 
