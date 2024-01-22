@@ -19,6 +19,4 @@ For any feedback, feel free to email torngamedev@gmail.com!
 
 ![shop](https://img.itch.zone/aW1hZ2UvMTk1MTcyNi8xNDA2NjA1Ny5wbmc=/original/SuQbJr.png)
 
-![lettersearchfeature](https://user-images.githubusercontent.com/78128664/209599499-44e76f76-7f20-452a-aa22-3e3d83e0bc25.png)
-
 ![level](https://img.itch.zone/aW1hZ2UvMTk1MTcyNi8xMzg3NTc2NC5wbmc=/original/jyVKK0.png)
