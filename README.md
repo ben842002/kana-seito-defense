@@ -8,7 +8,7 @@ challenge yourself with kana of your choice!
 ## Play the Game in Your Browser
 ### https://ben842002.github.io/kana-seito-defense/       
 **Note:** Game was originally supposed to be played on an application window so functionalities such as Settings and Quit will not work in the browser version. 
-For any feedback, feel free to email torngamedev@gmail.com!
+For any feedback, feel free to fill out this feedback form: https://forms.gle/2JvZAdRVY4BEA4hj7
 
 ## Future Roadmap
 - Variety of Turrets with different bullet effects (slow, stun)
