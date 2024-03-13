@@ -8,9 +8,9 @@ challenge yourself with kana of your choice!
 ## Play the Game
 ### Kongregate Version
 #### https://www.kongregate.com/games/torngamedev/kana-seito-defense?sfa=permalink&referrer=torngamedev
-### Standalone Browser Version
-#### https://ben842002.github.io/kana-seito-defense/  
-<br>
+<!-- ### Standalone Browser Version
+#### https://ben842002.github.io/kana-seito-defense/
+<br> -->
 For any feedback, feel free to fill out this feedback form: https://forms.gle/2JvZAdRVY4BEA4hj7
 
 ## Future Roadmap
