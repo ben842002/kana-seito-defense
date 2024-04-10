@@ -5,8 +5,7 @@ Type the correct romanization of Hiragana and Katakana characters that appear on
 Use tokens to purchase various in-game items such as enemy slowdown and more lives to survive longer in a level. Customize your own level to
 challenge yourself with kana of your choice!
 
-## Play the Game
-### Kongregate Version
+## Play the Game on Kongregate
 #### https://www.kongregate.com/games/torngamedev/kana-seito-defense?sfa=permalink&referrer=torngamedev
 <!-- ### Standalone Browser Version
 #### https://ben842002.github.io/kana-seito-defense/
