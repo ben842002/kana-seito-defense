@@ -13,15 +13,8 @@ challenge yourself with kana of your choice!
 <br> -->
 For any feedback, feel free to fill out this feedback form: https://forms.gle/2JvZAdRVY4BEA4hj7
 
-## Future Roadmap
-- A level where enemies spawn with random kana words/characters
-- Variety of Turrets with different bullet effects on enemies (slow, stun)
-- Level Challenges (one life only, an incorrect letter results in game over, etc)
-
 ![hsd1](https://user-images.githubusercontent.com/78128664/187120015-50bbfef7-8f15-4cea-9186-6307804d9e5c.png)
 
 ![hsd2](https://user-images.githubusercontent.com/78128664/187120018-15f0097d-7aea-4b5b-a80d-fe6986d7c249.png)
 
 ![shop](https://img.itch.zone/aW1hZ2UvMTk1MTcyNi8xNDA2NjA1Ny5wbmc=/original/SuQbJr.png)
-
-![level](https://img.itch.zone/aW1hZ2UvMTk1MTcyNi8xMzg3NTc2NC5wbmc=/original/jyVKK0.png)
