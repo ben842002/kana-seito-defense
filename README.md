@@ -5,7 +5,7 @@ Type the correct romanization of Hiragana and Katakana characters that appear on
 Use tokens to purchase various in-game items such as enemy slowdown and more lives to survive longer in a level. Customize your own level to
 challenge yourself with kana of your choice!
 
-## Steam Page
+## Steam (Coming Soon, wishlist now!)
 #### https://store.steampowered.com/app/3053750/Kana_Seito_Defense/  
 
 ## Play the Game on Kongregate
